@@ -78592,6 +78592,7 @@ loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/507b7ecd4d56d4
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/7100dc1e07c10ae735ef13db181af937.lua"))()
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/e24cb4afc30215b3bdd3aa5bf5d7dcc2.lua"))()
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/0318263188dad32dd5582ded4db7b0b6.lua"))()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/95211f592ad51ab9c33219aeb6ab54ca.lua"))()
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/ae625ba24791780707a4e2b6bf026a16.lua"))()
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/47d68c6f0be741b9b5c7d790dfc4f6b0.lua"))()
 loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/4a7fc8ad0277b1f95c984774eb72f945.lua"))()
